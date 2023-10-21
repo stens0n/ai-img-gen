@@ -19,4 +19,4 @@ Open a Pull Request
 Contact
 Anthony Stenson - LinkedIn Profile
 
-Project Link: https://github.com/your-username/ai-image-generator
+Project Link: https://github.com/stens0n/ai-img-gen
