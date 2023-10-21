@@ -17,6 +17,6 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 Contact
-Anthony Stenson - LinkedIn Profile
+Anthony Stenson - [LinkedIn Profile](https://www.linkedin.com/in/anthony-stenson-b33472217/)
 
 Project Link: https://github.com/stens0n/ai-img-gen
